@@ -1,0 +1,2 @@
+# strict-bootstrap
+responsive website
